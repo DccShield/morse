@@ -1,4 +1,14 @@
-#include "hotaru.h"
+//--------------------------------------------------------------------------------
+// レイアウト用モールス信号点灯スケッチ
+// [morse.cpp]
+// Copyright (c) 2020 Ayanosuke(Maison de DCC)
+// https://desktopstation.net/bb/index.php
+//
+// This software is released under the MIT License.
+// http://opensource.org/licenses/mit-license.php
+//--------------------------------------------------------------------------------
+
+#include "morse.h"
 
 #define x 20 // この数値を大きくすると点灯が遅くなります。
 
